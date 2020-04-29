@@ -1,101 +1,142 @@
 h1 {
-    margin-top: 0px;
-    margin-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 P {
-    margin-top: 0px;
+  margin-top: 0px;
 }
 
 body {
-    margin: 0px;
-    width: 100%;
+  margin: 0px;
+  width: 100%;
 }
 
 header {
-    background: #e1e1e1;
-    width: 100%;
+  background: #e1e1e1;
+  width: 100%;
 }
 
 .page1 {
-    width: 100%;
-    height: 60vw;
-    background: #e1e1e1;
-
-
+  width: 100%;
+  height: 50vw;
+  background: #e1e1e1;
 }
 
 .menu-page1 {
-    float: right;
-    margin-top: 30px;
-
+  float: right;
+  margin-top: 30px;
 }
 
 .menu-page1 li {
-    display: inline-block;
-    margin-left: 50px;
+  display: inline-block;
+  margin-left: 50px;
 
-    text-transform: uppercase
+  text-transform: uppercase;
 }
 
 .text-page1 p {
-    color: gray;
-    font-weight: 700;
-    font-size: 20px;
+  color: gray;
+  font-weight: 700;
+  font-size: 20px;
 }
 
 .text-page1 h1 {
-    font-size: 70px;
+  font-size: 70px;
 }
 
 .content-page1 {
-    width: 90%;
-    margin: 0 auto;
-
+  width: 90%;
+  margin: 0 auto;
 }
 
 .text-page1 {
-    display: inline-block;
-    padding-top: 10%;
+  display: inline-block;
+  padding-top: 10%;
 }
-
-.content-heder {
-    width: 90%;
-    margin: 0 auto;
-}
-
-
-
-.pic-man {
-    display: inline-block;
-    float: right;
-}
-
-
-
-.logo {
-    display: inline-block;
-
-    margin-top: 20px;
-}
-
 .but1-page1 {
-    border: 0px;
-    width: 160px;
-    height: 50px;
-    background-color: rgb(255, 255, 255);
-    box-shadow: 0px 18px 26.68px 2.32px rgba(0, 0, 0, 0.1);
-    font-weight: 700;
-    font-size: 15px;
-    text-transform: uppercase
+  border: 0px;
+  width: 160px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 18px 26.68px 2.32px rgba(0, 0, 0, 0.1);
+  font-weight: 700;
+  font-size: 15px;
+  text-transform: uppercase;
 }
 
 .but2-page1 {
-    width: 160px;
-    height: 50px;
-    border: 1px solid rgb(77, 77, 77);
-    background: none;
-    font-weight: 700;
-    font-size: 1gigit5px;
-    text-transform: uppercase
+  width: 160px;
+  height: 50px;
+  border: 1px solid rgb(77, 77, 77);
+  background: none;
+  font-weight: 700;
+  font-size: 1gigit5px;
+  text-transform: uppercase;
+}
+
+.page2 {
+  width: 100%;
+  height: 60vw;
+  background: ffffff;
+}
+.content-page2 {
+  width: 90%;
+  margin: 0 auto;
+}
+.text-page2 {
+  display: inline-block;
+  padding-top: 20%;
+  width: 50%;
+}
+.text-page2 p {
+  color: gray;
+  font-weight: 500;
+  font-size: 20px;
+  color: rgb(77, 77, 77);
+}
+
+.text-page2 h1 {
+  text-transform: uppercase;
+  font-size: 46px;
+  font-family: "Asap";
+  color: rgba(77, 77, 77, 0.8);
+  font-weight: bold;
+  line-height: 1.065;
+}
+.kn-page2 {
+  text-decoration: overline;
+}
+
+.but1-page2 {
+  margin-left: 10px;
+  width: 200px;
+  height: 50px;
+  border: 1px solid rgb(77, 77, 77);
+  background: none;
+  font-weight: 700;
+  font-size: 1gigit5px;
+  color: rgb(77, 77, 77);
+  text-transform: uppercase;
+}
+.content-heder {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.pic-man {
+  display: inline-block;
+  float: right;
+}
+
+.logo {
+  display: inline-block;
+
+  margin-top: 20px;
+}
+
+.pic-about {
+  display: inline-block;
+  float: right;
+  padding-top: 10%;
 }
