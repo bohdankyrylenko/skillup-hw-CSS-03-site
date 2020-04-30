@@ -154,6 +154,80 @@ header {
   font-family: "Myriad Pro";
   color: rgb(77, 77, 77);
 }
+.page4 {
+  width: 100%;
+  height: 45vw;
+  background: #ffffff;
+}
+.content-page4 {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+.content-page4 h3 {
+  padding-top: 5%;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 46px;
+  font-family: "Asap";
+  color: rgba(77, 77, 77, 0.8);
+  font-weight: bold;
+  line-height: 1.065;
+}
+.page5 {
+  width: 100%;
+  height: 70vw;
+  background: #f6f6f6;
+}
+.content-page5 {
+  width: 90%;
+
+  margin: 0 auto;
+  text-align: center;
+}
+
+.content-page5 ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  width: 100%;
+  padding: 0px;
+}
+
+.content-page5 li {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  list-style-type: none;
+  text-align: center;
+  width: 30%;
+}
+.content-page5 h4 {
+  padding-top: 5%;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 46px;
+  font-family: "Asap";
+  color: rgba(77, 77, 77, 0.8);
+  font-weight: bold;
+  line-height: 1.065;
+}
+
+.but1-page5 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 18px 26.68px 2.32px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
+  font-family: "Asap";
+  background: none;
+  width: 160px;
+  height: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 0px;
+}
+.midle-li-page5 {
+  margin-left: 5%;
+  margin-right: 5%;
+}
 .content-heder {
   width: 90%;
   margin: 0 auto;
@@ -184,4 +258,7 @@ header {
 }
 .line {
   text-decoration: overline;
+}
+.icon-page5 img {
+  width: 100%;
 }
