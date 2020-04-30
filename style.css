@@ -31,7 +31,8 @@ header {
 .menu-page1 li {
   display: inline-block;
   margin-left: 50px;
-
+  font-weight: 600;
+  color: rgb(77, 77, 77);
   text-transform: uppercase;
 }
 
@@ -42,6 +43,7 @@ header {
 }
 
 .text-page1 h1 {
+  color: rgb(77, 77, 77);
   font-size: 70px;
 }
 
@@ -61,7 +63,7 @@ header {
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 18px 26.68px 2.32px rgba(0, 0, 0, 0.1);
   font-weight: 700;
-  font-size: 15px;
+  color: rgb(77, 77, 77);
   text-transform: uppercase;
 }
 
@@ -69,9 +71,9 @@ header {
   width: 160px;
   height: 50px;
   border: 1px solid rgb(77, 77, 77);
+  color: rgb(77, 77, 77);
   background: none;
   font-weight: 700;
-  font-size: 1gigit5px;
   text-transform: uppercase;
 }
 
@@ -215,13 +217,13 @@ header {
 .but1-page5 {
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 18px 26.68px 2.32px rgba(0, 0, 0, 0.1);
-  font-size: 16px;
-  font-family: "Asap";
-  background: none;
   width: 160px;
   height: 50px;
+  border: 1px solid rgb(77, 77, 77);
+  color: rgb(77, 77, 77);
+  background: none;
+  font-weight: 700;
   text-transform: uppercase;
-  font-weight: bold;
   border: 0px;
 }
 .midle-li-page5 {
@@ -261,4 +263,8 @@ header {
 }
 .icon-page5 img {
   width: 100%;
+}
+
+.linedown {
+  text-decoration: underline;
 }
