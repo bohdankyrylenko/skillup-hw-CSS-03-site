@@ -215,7 +215,8 @@ header {
 }
 
 .but1-page5 {
-  background-color: rgb(255, 255, 255);
+  margin-top: 10px;
+  background-color: white;
   box-shadow: 0px 18px 26.68px 2.32px rgba(0, 0, 0, 0.1);
   width: 160px;
   height: 50px;
@@ -229,6 +230,85 @@ header {
 .midle-li-page5 {
   margin-left: 5%;
   margin-right: 5%;
+}
+.page6 {
+  width: 100%;
+  height: 70vw;
+}
+.content-page6 {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+.massage-page6 {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  height: 100%;
+  text-align: left;
+  padding: 30px;
+  width: 50%;
+  border: 1px solid #212121;
+  margin: 0 auto;
+}
+.img-page6 {
+  padding-top: 5%;
+  float: left;
+  width: 30%;
+}
+.img-page6 img {
+  float: right;
+}
+.text-page6 {
+  float: left;
+  width: 67%;
+  padding-left: 3%;
+}
+.content-page6 ul {
+  display: flex;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.content-page6 li {
+  border: 1px solid black;
+  list-style-type: none;
+  margin-left: 5px;
+  width: 10px;
+  height: 10px;
+}
+.massage-page6 h6 {
+  color: rgba(33, 33, 33, 0.902);
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-top: 7%;
+  margin-bottom: 4%;
+}
+.content-page6 h5 {
+  padding-top: 5%;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 46px;
+  font-family: "Asap";
+  color: rgba(77, 77, 77, 0.8);
+  font-weight: bold;
+  line-height: 1.065;
+}
+.message-text-page6 {
+  font-size: 14px;
+  color: rgba(33, 33, 33, 0.6);
+  text-transform: uppercase;
+  line-height: 1.625;
+}
+.company-name-page6 {
+  font-size: 12px;
+  color: rgba(33, 33, 33, 0.902);
+  text-transform: uppercase;
+}
+
+.black-page6{
+  background-color: black;
+
 }
 .content-heder {
   width: 90%;
