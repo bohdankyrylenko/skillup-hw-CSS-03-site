@@ -378,61 +378,58 @@ header {
 
 }
 
-.page7-2 {
+.page8 {
+  margin-top: 10%;
   width: 100%;
-  height: 5vw;
-  background: white;
+  background-size: 100%;
+  background-image: url(pic/page8/1.png);
+  height: 40vw;
 }
 
-.content-page7-2 {
-  padding-top: 10%;
+.content-heder {
   width: 90%;
   margin: 0 auto;
+}
 
-  te .content-heder {
-    width: 90%;
-    margin: 0 auto;
-  }
+.pic-man {
+  display: inline-block;
+  float: right;
+}
 
-  .pic-man {
-    display: inline-block;
-    float: right;
-  }
+.logo {
+  display: inline-block;
+  margin-top: 20px;
+}
 
-  .logo {
-    display: inline-block;
-    margin-top: 20px;
-  }
+.pic-about {
+  display: inline-block;
+  float: right;
+  padding-top: 10%;
+  width: 45%;
+}
 
-  .pic-about {
-    display: inline-block;
-    float: right;
-    padding-top: 10%;
-    width: 45%;
-  }
+.pic-about img {
+  float: right;
+}
 
-  .pic-about img {
-    float: right;
-  }
+.parent {
+  display: grid;
+  justify-content: space-around;
+}
 
-  .parent {
-    display: grid;
-    justify-content: space-around;
-  }
+.line {
+  text-decoration: overline;
+}
 
-  .line {
-    text-decoration: overline;
-  }
+.icon-page5 img {
+  width: 100%;
+}
 
-  .icon-page5 img {
-    width: 100%;
-  }
+.linedown {
+  text-decoration: underline;
+}
 
-  .linedown {
-    text-decoration: underline;
-  }
-
-  .icon-page7 li img {
-    height: 70px;
-    width: auto;
-  }
+.icon-page7 li img {
+  height: 70px;
+  width: auto;
+}
