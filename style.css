@@ -56,6 +56,7 @@ header {
   display: inline-block;
   padding-top: 10%;
 }
+
 .but1-page1 {
   border: 0px;
   width: 160px;
@@ -82,15 +83,18 @@ header {
   height: 45vw;
   background: ffffff;
 }
+
 .content-page2 {
   width: 90%;
   margin: 0 auto;
 }
+
 .text-page2 {
   display: inline-block;
   padding-top: 20%;
   width: 45%;
 }
+
 .text-page2 p {
   color: gray;
   font-weight: 500;
@@ -118,11 +122,13 @@ header {
   color: rgb(77, 77, 77);
   text-transform: uppercase;
 }
+
 .page3 {
   width: 100%;
   height: 45vw;
   background: #f6f6f6;
 }
+
 .page3 ul {
   display: flex;
   flex-wrap: wrap;
@@ -130,6 +136,7 @@ header {
   width: 100%;
   padding: 0px;
 }
+
 .page3 li {
   padding-top: 50px;
   list-style-type: none;
@@ -141,6 +148,7 @@ header {
   width: 90%;
   margin: 0 auto;
 }
+
 .content-page3 h2 {
   padding-top: 10%;
   text-align: center;
@@ -151,21 +159,25 @@ header {
   font-weight: bold;
   line-height: 1.065;
 }
+
 .icon-page3 p {
   font-size: 24px;
   font-family: "Myriad Pro";
   color: rgb(77, 77, 77);
 }
+
 .page4 {
   width: 100%;
   height: 45vw;
   background: #ffffff;
 }
+
 .content-page4 {
   width: 90%;
   margin: 0 auto;
   text-align: center;
 }
+
 .content-page4 h3 {
   padding-top: 5%;
   text-align: center;
@@ -176,11 +188,13 @@ header {
   font-weight: bold;
   line-height: 1.065;
 }
+
 .page5 {
   width: 100%;
   height: 70vw;
   background: #f6f6f6;
 }
+
 .content-page5 {
   width: 90%;
 
@@ -203,6 +217,7 @@ header {
   text-align: center;
   width: 30%;
 }
+
 .content-page5 h4 {
   padding-top: 5%;
   text-align: center;
@@ -227,19 +242,23 @@ header {
   text-transform: uppercase;
   border: 0px;
 }
+
 .midle-li-page5 {
   margin-left: 5%;
   margin-right: 5%;
 }
+
 .page6 {
   width: 100%;
-  height: 70vw;
+  height: 35vw;
 }
+
 .content-page6 {
   width: 90%;
   margin: 0 auto;
   text-align: center;
 }
+
 .massage-page6 {
   display: flex;
   flex-wrap: wrap;
@@ -251,19 +270,23 @@ header {
   border: 1px solid #212121;
   margin: 0 auto;
 }
+
 .img-page6 {
   padding-top: 5%;
   float: left;
   width: 30%;
 }
+
 .img-page6 img {
   float: right;
 }
+
 .text-page6 {
   float: left;
   width: 67%;
   padding-left: 3%;
 }
+
 .content-page6 ul {
   display: flex;
   margin: 0 auto;
@@ -277,6 +300,7 @@ header {
   width: 10px;
   height: 10px;
 }
+
 .massage-page6 h6 {
   color: rgba(33, 33, 33, 0.902);
   font-size: 25px;
@@ -284,6 +308,7 @@ header {
   margin-top: 7%;
   margin-bottom: 4%;
 }
+
 .content-page6 h5 {
   padding-top: 5%;
   text-align: center;
@@ -294,57 +319,120 @@ header {
   font-weight: bold;
   line-height: 1.065;
 }
+
 .message-text-page6 {
   font-size: 14px;
   color: rgba(33, 33, 33, 0.6);
   text-transform: uppercase;
   line-height: 1.625;
 }
+
 .company-name-page6 {
   font-size: 12px;
   color: rgba(33, 33, 33, 0.902);
   text-transform: uppercase;
 }
 
-.black-page6{
+.black-page6 {
   background-color: black;
-
 }
-.content-heder {
+
+.page7 {
+  width: 100%;
+  height: 17vw;
+  background: #f6f6f6;
+}
+
+.content-page7 {
+  padding-top: 5%;
   width: 90%;
   margin: 0 auto;
+  text-align: center;
 }
 
-.pic-man {
-  display: inline-block;
-  float: right;
-}
-
-.logo {
-  display: inline-block;
-  margin-top: 20px;
-}
-
-.pic-about {
-  display: inline-block;
-  float: right;
-  padding-top: 10%;
-  width: 45%;
-}
-.pic-about img {
-  float: right;
-}
-.parent {
-  display: grid;
-  justify-content: space-around;
-}
-.line {
-  text-decoration: overline;
-}
-.icon-page5 img {
+.content-page7 ul {
+  display: flex;
+  margin: 0 auto;
+  padding: 0px;
   width: 100%;
 }
 
-.linedown {
-  text-decoration: underline;
+.content-page7 li {
+  list-style-type: none;
+  width: 25%;
 }
+
+.number-page7 {
+  font-size: 30px;
+  color: rgba(33, 33, 33, 0.902);
+  text-transform: uppercase;
+  padding-top: 1%;
+  margin-bottom: 1%;
+  font-weight: 700;
+}
+
+.name-page7 {
+  font-size: 25px;
+  color: rgba(33, 33, 33, 0.902);
+  text-transform: uppercase;
+
+}
+
+.page7-2 {
+  width: 100%;
+  height: 5vw;
+  background: white;
+}
+
+.content-page7-2 {
+  padding-top: 10%;
+  width: 90%;
+  margin: 0 auto;
+
+  te .content-heder {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .pic-man {
+    display: inline-block;
+    float: right;
+  }
+
+  .logo {
+    display: inline-block;
+    margin-top: 20px;
+  }
+
+  .pic-about {
+    display: inline-block;
+    float: right;
+    padding-top: 10%;
+    width: 45%;
+  }
+
+  .pic-about img {
+    float: right;
+  }
+
+  .parent {
+    display: grid;
+    justify-content: space-around;
+  }
+
+  .line {
+    text-decoration: overline;
+  }
+
+  .icon-page5 img {
+    width: 100%;
+  }
+
+  .linedown {
+    text-decoration: underline;
+  }
+
+  .icon-page7 li img {
+    height: 70px;
+    width: auto;
+  }
