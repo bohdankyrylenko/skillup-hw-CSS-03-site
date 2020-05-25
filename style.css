@@ -19,8 +19,9 @@ header {
 
 .page1 {
   width: 100%;
-  height: 45vw;
+  height: 45%;
   background: #e1e1e1;
+  padding-bottom: 340px;
 }
 
 .menu-page1 {
@@ -55,6 +56,7 @@ header {
 .text-page1 {
   display: inline-block;
   padding-top: 10%;
+  width: 40%;
 }
 
 .but1-page1 {
@@ -80,8 +82,9 @@ header {
 
 .page2 {
   width: 100%;
-  height: 45vw;
-  background: ffffff;
+  height: 45%;
+  background: white;
+  padding-bottom: 150px;
 }
 
 .content-page2 {
@@ -125,8 +128,9 @@ header {
 
 .page3 {
   width: 100%;
-  height: 45vw;
+  height: 45%;
   background: #f6f6f6;
+  padding-bottom: 50px;
 }
 
 .page3 ul {
@@ -168,8 +172,9 @@ header {
 
 .page4 {
   width: 100%;
-  height: 45vw;
+  height: 45%;
   background: #ffffff;
+  padding-bottom: 120px;
 }
 
 .content-page4 {
@@ -191,8 +196,9 @@ header {
 
 .page5 {
   width: 100%;
-  height: 70vw;
+  height: 70%;
   background: #f6f6f6;
+  padding-bottom: 120px;
 }
 
 .content-page5 {
@@ -250,7 +256,8 @@ header {
 
 .page6 {
   width: 100%;
-  height: 35vw;
+  height: 35%;
+  padding-bottom: 120px;
 }
 
 .content-page6 {
@@ -341,6 +348,7 @@ header {
   width: 100%;
   height: 17vw;
   background: #f6f6f6;
+  padding-bottom: 50px;
 }
 
 .content-page7 {
@@ -383,7 +391,8 @@ header {
   width: 100%;
   background-size: 100%;
   background-image: url(pic/page8/1.png);
-  height: 40vw;
+  height: 40%;
+  padding-bottom: 20px;
 }
 
 .content-heder {
@@ -410,6 +419,7 @@ header {
 
 .pic-about img {
   float: right;
+  width: 100%;
 }
 
 .parent {
@@ -445,7 +455,8 @@ header {
   font-size: 46px;
   font-family: "Asap";
   font-weight: bold;
-  margin: 50px;
+  margin-top: 150px;
+  margin-bottom: 60px;
 }
 .page-form {
   width: 100%;
@@ -453,7 +464,7 @@ header {
 .page-form input {
   width: 390px;
   height: 50px;
-  margin: 0px 20px;
+  margin: 0px 15px;
   padding-left: 10px;
   font-size: 16px;
   font-weight: 600;
@@ -461,9 +472,9 @@ header {
   font-family: "Asap";
 }
 .page-form textarea {
-  width: 830px;
+  width: 820px;
   height: 120px;
-  margin-top: 20px;
+  margin-top: 30px;
   padding: 10px;
   font-size: 16px;
   font-weight: 600;
@@ -471,7 +482,7 @@ header {
   font-family: "Asap";
 }
 .form-send {
-  margin-top: 20px;
+  margin-top: 30px;
   text-transform: uppercase;
   border: 0px;
   padding: 15px 40px;
@@ -482,7 +493,7 @@ header {
   font-family: "Asap";
 }
 .footer-line {
-  margin-top: 50px;
+  margin-top: 60px;
 }
 .scroll {
   position: absolute;
